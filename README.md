@@ -7,5 +7,5 @@
 
 how you got here I don't care
 
-I am a young man in love with games and anime and currently full stack developer
+I am a young man in love with games and anime and currently full stack developer <br />
 my website https://maxhaviland.github.io
